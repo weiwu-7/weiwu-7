@@ -3,7 +3,7 @@
 <h3>👋 Hi, I'm Wei Wu!</h3>
 
 <p>
-  <a href="https://scholar.google.com/">
+  <a href="https://scholar.google.com/citations?user=yXDVgMYAAAAJ&hl=zh-CN">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
   <a href="https://github.com/weiwu-7">
