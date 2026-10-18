@@ -55,7 +55,7 @@ I am always open to research discussions and potential collaborations. **I am al
   <b>PresentAgent-2: Towards Generalist Multimodal Presentation Agents</b>
   <p>
     <a href="https://github.com/weiwu-7"><b>Wei Wu</b></a><sup>*</sup>,
-    <a href="https://github.com/xzy-Zayn">Ziyang Xu</a><sup>*</sup>,,
+    <a href="https://github.com/xzy-Zayn">Ziyang Xu</a><sup>*</sup>,
     <a href="https://github.com/steve-zeyu-zhang">Zeyu Zhang</a><sup>*†</sup>,
     Yang Zhao,
     <a href="https://ha0tang.github.io/">Hao Tang</a><sup>‡</sup>
