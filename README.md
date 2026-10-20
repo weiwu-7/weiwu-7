@@ -22,7 +22,7 @@
 ## Biography
 
 
-I am a Master's student at the University of Electronic Science and Technology of China (UESTC). I also collaborate closely with [Prof. Hao Tang](https://ha0tang.github.io/) (PKU), [Prof. Haidong Kang](https://haidong-kang.github.io/) (NEU), and [Zeyu Zhang](https://github.com/steve-zeyu-zhang) (AIGeeks).
+I am a Master's student at the University of Electronic Science and Technology of China (UESTC). I also collaborate closely with [Prof. Hao Tang](https://ha0tang.github.io/) (PKU), [Prof. Haidong Kang](https://haidong-kang.github.io/) (NEU), and [Zeyu Zhang](https://github.com/steve-zeyu-zhang) (AI Geeks).
 
 
 My research interests primarily focus on AI Agents and Gaming Agents and I am also deeply interested in World Models
