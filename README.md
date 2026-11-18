@@ -27,7 +27,7 @@ I am a Master's student at the University of Electronic Science and Technology o
 
 My research interests primarily focus on AI Agents and Gaming Agents and I am also deeply interested in World Models
 
-I am always open to research discussions and potential collaborations. **I am also actively seeking research internship opportunities in industry**, particularly in AI Agents, Gaming Agents, and World Models. **If you are interested in my research or have any relevant opportunities, please feel free to reach out via [email](mailto:wei.wu@std.uestc.edu.cn).**
+I am always open to research discussions and potential collaborations. **I am also actively seeking research internship opportunities in industry**, particularly in Gaming Agents and LLM Agents. **If you are interested in my research or have any relevant opportunities, please feel free to reach out via [email](mailto:wei.wu@std.uestc.edu.cn).**
 
 
 ## Selected Publications
